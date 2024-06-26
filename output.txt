@@ -1,0 +1,100 @@
+--------------------------------------------------
+[PROMPT]<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+<image>[128002 * 96]</image><slice><image>[128002 * 96]</image>
+<image>[128002 * 96]</image></slice>
+Which specific locations in the picture will be covered with snow on snowy days<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+[OUTPUT]grass, tree will be covered in snow on snowy days<|eot_id|>
+
+[LABELS]grass will be covered in snow on snowy days
+[IMAGES]['datasets/test_images_different_category/sunny/nature_003.png']
+--------------------------------------------------
+[PROMPT]<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+<image>[128002 * 96]</image><slice><image>[128002 * 96]</image>
+<image>[128002 * 96]</image></slice>
+Which specific locations in the picture will be covered with snow on snowy days<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+[OUTPUT]tree will be covered in snow on snowy days<|eot_id|>
+
+[LABELS]tree will be covered in snow on snowy days
+[IMAGES]['datasets/test_images_different_category/sunny/outdoor_005.png']
+--------------------------------------------------
+[PROMPT]<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+<image>[128002 * 96]</image><slice><image>[128002 * 96]</image>
+<image>[128002 * 96]</image></slice>
+Which specific locations in the picture will be covered with snow on snowy days<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+[OUTPUT]grass, mountain will be covered in snow on snowy days<|eot_id|>
+
+[LABELS]grass, mountain will be covered in snow on snowy days
+[IMAGES]['datasets/test_images_different_category/sunny/nature_005.png']
+--------------------------------------------------
+[PROMPT]<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+<image>[128002 * 96]</image><slice><image>[128002 * 96]</image>
+<image>[128002 * 96]</image></slice>
+Which specific locations in the picture will be covered with snow on snowy days<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+[OUTPUT]tree will be covered in snow on snowy days<|eot_id|>
+
+[LABELS]tree, grass will be covered in snow on snowy days
+[IMAGES]['datasets/test_images_different_category/sunny/nature_006.png']
+--------------------------------------------------
+[PROMPT]<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+<image>[128002 * 96]</image><slice><image>[128002 * 96]</image>
+<image>[128002 * 96]</image></slice>
+Which specific locations in the picture will be covered with snow on snowy days<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+[OUTPUT]road, grass will be covered in snow on snowy days<|eot_id|>
+
+[LABELS]road will be covered in snow on snowy days
+[IMAGES]['datasets/test_images_different_category/sunny/city_006.png']
+--------------------------------------------------
+[PROMPT]<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+<image>[128002 * 96]</image><slice><image>[128002 * 96]</image>
+<image>[128002 * 96]</image></slice>
+Which specific locations in the picture will be covered with snow on snowy days<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+[OUTPUT]road, ground, tree will be covered in snow on snowy days<|eot_id|>
+
+[LABELS]ground, tree will be covered in snow on snowy days
+[IMAGES]['datasets/test_images_different_category/sunny/city_009.png']
+--------------------------------------------------
+[PROMPT]<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+<image>[128002 * 96]</image><slice><image>[128002 * 96]</image>
+<image>[128002 * 96]</image></slice>
+Which specific locations in the picture will be covered with snow on snowy days<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+[OUTPUT]tree, grass will be covered in snow on snowy days<|eot_id|>
+
+[LABELS]tree, grass will be covered in snow on snowy days
+[IMAGES]['datasets/test_images_different_category/sunny/outdoor_003.png']
+--------------------------------------------------
+[PROMPT]<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+<image>[128002 * 96]</image><slice><image>[128002 * 96]</image>
+<image>[128002 * 96]</image></slice>
+Which specific locations in the picture will be covered with snow on snowy days<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+[OUTPUT]road, grass will be covered in snow on snowy days<|eot_id|>
+
+[LABELS]road, grass will be covered in snow on snowy days
+[IMAGES]['datasets/test_images_different_category/sunny/road_004.png']
+--------------------------------------------------
+[PROMPT]<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+<image>[128002 * 96]</image><slice><image>[128002 * 96]</image>
+<image>[128002 * 96]</image></slice>
+Which specific locations in the picture will be covered with snow on snowy days<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+[OUTPUT]grass, tree will be covered in snow on snowy days<|eot_id|>
+
+[LABELS]grass will be covered in snow on snowy days
+[IMAGES]['datasets/test_images_different_category/sunny/nature_003.png']
+--------------------------------------------------

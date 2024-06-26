@@ -1,0 +1,35 @@
+{
+  "dataset_root": "/root/autodl-tmp/dataset",
+  "season": {
+    "winter": {
+      "related_objects_key": [
+        "tree",
+        "grass",
+        "ground",
+        "road",
+        "roof",
+        "mountain",
+        "stair"
+      ],
+      "query": {
+        "identify": "Please classify objects covered with snow in this image, one word for each class.(Format: [name1, name2, ..., nameN])",
+        "focus": "In the winter-to-[target] translation task for this image, for objects in previous list, label strongly related objects as True and label irrelevant related objects as False.(Format: [(name1, Bool1), (name2, Bool2), ..., (nameN, BoolN)])"
+      }
+    },
+    "summer": {
+      "related_objects_key": [
+        "tree",
+        "grass",
+        "ground",
+        "road",
+        "roof",
+        "mountain",
+        "stair"
+      ],
+      "query": {
+        "identify": "Please classify objects in this image, one word for each class.(Format: [name1, name2, ..., nameN])",
+        "focus": "In the summer-to-[target] translation task for this image, for objects in previous list, label strongly related objects as True and label irrelevant related objects as False.(Format: [(name1, Bool1), (name2, Bool2), ..., (nameN, BoolN)])"
+      }
+    }
+  }
+}
