@@ -140,3 +140,6 @@ ast_index_file.py
 
 # other
 docs/resources/
+output.txt
+README.md
+README_CN.md
